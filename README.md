@@ -1,4 +1,4 @@
-# Welcome to your Lovable project
+# Community Participatory Mapping tool
 
 ## Project info
 
