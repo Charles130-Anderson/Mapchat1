@@ -1,8 +1,4 @@
-# Welcome to your Lovable project
-
-## Project info
-
-**URL**: https://lovable.dev/projects/edb3e3b7-2df0-4e42-84be-f06027ae7b75
+# Community Participatory Mapping tool
 
 ## How can I edit this code?
 
