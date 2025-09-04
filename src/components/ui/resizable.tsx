@@ -17,7 +17,7 @@
   )
 
   const ResizablePanel = ResizablePrimitive.Panel
-
+0b
   const ResizableHandle = ({
     withHandle,
     className,
